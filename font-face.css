@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Noto Serif Japanese';
+  font-style: normal;
+  font-weight: 100;
+  src: url(fonts/NotoSerifCJKjp-ExtraLight.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Serif Japanese';
+  font-style: normal;
+  font-weight: 200;
+  src: url(fonts/NotoSerifCJKjp-Light.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Serif Japanese';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/NotoSerifCJKjp-Regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Serif Japanese';
+  font-style: normal;
+  font-weight: 500;
+  src: url(fonts/NotoSerifCJKjp-Medium.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Serif Japanese';
+  font-style: normal;
+  font-weight: 600;
+  src: url(fonts/NotoSerifCJKjp-SemiBold.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Serif Japanese';
+  font-style: normal;
+  font-weight: 700;
+  src: url(fonts/NotoSerifCJKjp-Bold.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Serif Japanese';
+  font-style: normal;
+  font-weight: 900;
+  src: url(fonts/NotoSerifCJKjp-Black.woff) format('woff');
+}
